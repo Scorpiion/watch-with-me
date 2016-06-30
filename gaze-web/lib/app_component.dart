@@ -13,7 +13,7 @@ import 'package:websockets/browser_websockets.dart';
 import "package:gaze_shared/backend_provider.dart";
 
 
-const String BACKEND_URL = "ws://gaze-backend.stevenroose.svc.tutum.io:80/";
+const String BACKEND_URL = "wss://backend-watch-with-me-test.sourcevoid.net/";
 //const String BACKEND_URL = "ws://localhost:8080/";
 
 
